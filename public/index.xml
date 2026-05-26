@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ruang Bukti</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Ruang Bukti</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 May 2026 20:27:07 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Tue, 26 May 2026 20:27:07 +0200</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Welcome to Ruang Bukti</title>
+      <link>http://localhost:1313/posts/welcome/</link>
+      <pubDate>Tue, 26 May 2026 20:23:46 +0200</pubDate>
+      <guid>http://localhost:1313/posts/welcome/</guid>
+      <description>&lt;h1 id=&#34;welcome-to-ruang-bukti&#34;&gt;Welcome to Ruang Bukti&lt;/h1&gt;
+&lt;p&gt;This is the beginning of my notes on mathematics, radar, and numerical simulation.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

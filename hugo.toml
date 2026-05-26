@@ -1,0 +1,15 @@
+baseURL = 'https://ruangbukti.com/'
+locale = 'en-us'
+title = 'Ruang Bukti'
+theme = "PaperMod"
+
+[menu]
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 10
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 20
